@@ -6,6 +6,7 @@ class Solution:
         #    out = out + (n/5**counter)
         #    counter+=1
         #return int(out)
+        
         res = 0
         while n > 0:
             n = n // 5
